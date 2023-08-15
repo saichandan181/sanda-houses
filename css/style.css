@@ -101,10 +101,10 @@ section {
 /* Home section */
 .home {
   margin-top: 6rem;
-  background: url(../images/home3.jpg);
+  background: url(../images/logo1.0.png);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: left;
   height: 440px;
   border-radius: 1.5rem;
   display: flex;
